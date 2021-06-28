@@ -1,2 +1,1 @@
-# MatterJSBoilerPlate
-MatterJSBoilerPlate
+# PROC41-Template
